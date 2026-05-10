@@ -1,7 +1,6 @@
 # 🎓 Student Search Portal — Apache Solr + React
 
 > **CS-347: Parallel & Distributed Computing — Lab 13**  
-> Faculty of Computing | BSCS-13AB | Instructor: Dr. Khurram Shahzad
 
 A full-stack search application built with **Apache Solr** as the search engine and **React** as the frontend. Demonstrates indexing, querying, faceting, filtering, sorting, and pagination on a student records dataset.
 
