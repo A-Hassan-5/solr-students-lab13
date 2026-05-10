@@ -1,0 +1,21 @@
+id,name,age,department,gpa,year,city,courses
+1,Ali Hassan,20,Computer Science,3.8,2,Rawalpindi,"Data Structures,Algorithms,OOP"
+2,Sara Khan,21,Electrical Engineering,3.5,3,Lahore,"Circuits,Signal Processing,Math"
+3,Ahmed Raza,22,Computer Science,3.2,4,Islamabad,"Database,Networks,OS"
+4,Fatima Malik,20,Software Engineering,3.9,2,Karachi,"Web Dev,OOP,Discrete Math"
+5,Usman Ali,23,Computer Science,2.8,4,Peshawar,"AI,ML,Data Mining"
+6,Zara Sheikh,21,Electrical Engineering,3.6,3,Lahore,"Embedded Systems,VLSI,Math"
+7,Bilal Ahmed,19,Software Engineering,3.7,1,Rawalpindi,"Programming,Math,English"
+8,Ayesha Noor,22,Computer Science,3.1,4,Islamabad,"Computer Vision,NLP,AI"
+9,Hassan Tariq,20,Mechanical Engineering,2.9,2,Multan,"Thermodynamics,Mechanics,Math"
+10,Sana Iqbal,21,Software Engineering,3.4,3,Karachi,"Mobile Dev,UI Design,Testing"
+11,Raza Mahmood,22,Computer Science,3.6,4,Lahore,"Blockchain,Security,Networks"
+12,Maria Baig,19,Electrical Engineering,3.8,1,Islamabad,"Physics,Math,Circuits"
+13,Omar Farooq,23,Computer Science,2.7,4,Rawalpindi,"Big Data,Cloud Computing,DevOps"
+14,Hina Waheed,20,Software Engineering,3.3,2,Peshawar,"Agile,Testing,Web Dev"
+15,Tariq Saeed,21,Mechanical Engineering,3.0,3,Lahore,"Fluid Mechanics,CAD,Math"
+
+
+
+
+
